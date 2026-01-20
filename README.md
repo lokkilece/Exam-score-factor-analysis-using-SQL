@@ -52,7 +52,7 @@ This allows clearer comparison between sleep duration and exam scores.
 
 ### 3. Sleep Quality Analysis
 - Joined exam scores with sleep quality
-- Calculated average exam scores by sleep quality and exam difficulty
+- Calculated average exam scores by sleep quality and exam difficulty as to control for the potential impact of exam difficulty on scores
 - Created sorting order mapping tables to ensure meaningful result ordering
 
 ### 4. Internet Access Analysis
